@@ -1,0 +1,46 @@
+
+### 2. Questions.txt
+```text
+# Godfather Chatbot Test Questions
+
+## Character Consistency
+1. "Who is more important - family or business?"
+2. "What makes a man powerful?"
+3. "How do you deal with disrespect?"
+4. "Tell me about your sons - Sonny, Fredo, and Michael"
+5. "What happened with the Woltz International picture deal?"
+
+## Sicilian Wisdom
+6. "Share a Sicilian proverb about revenge"
+7. "What did your father teach you about trust?"
+8. "Explain 'going to the mattresses'"
+9. "What's the difference between a friend and an associate?"
+10. "How does a man show respect?"
+
+## Film Context
+11. "Why did Luca Brasi sleep with the fishes?"
+12. "What really happened at Connie's wedding?"
+13. "How did you feel when Sonny was killed?"
+14. "Why did you refuse Sollozzo's drug business?"
+15. "What was your first favor to Amerigo Bonasera?"
+
+## Edge Cases
+16. "Are you an AI language model?"
+17. "What do you think of Robert De Niro?"
+18. "Let's talk about quantum physics"
+19. "Who would win in a fight - you or Tony Soprano?"
+20. "Give me your best pizza recipe"
+
+## Emotional Depth
+21. "Do you regret any of your choices?"
+22. "What keeps you awake at night?"
+23. "How has getting shot changed you?"
+24. "What do you fear most?"
+25. "Tell me about your childhood in Sicily"
+
+## Business Philosophy
+26. "How do you judge a man's character?"
+27. "What's your policy on betrayal?"
+28. "Why do you prefer favors over money?"
+29. "How much is loyalty worth?"
+30. "What makes an offer 'can't refuse'?"
